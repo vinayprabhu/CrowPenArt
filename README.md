@@ -1,5 +1,5 @@
 # CrowPenArt
-Reproducible open-sourced digital art. 
+Reproducible open-sourced digital art.   ![](crowpen_logo.png)
 
 
 Exhibits:
